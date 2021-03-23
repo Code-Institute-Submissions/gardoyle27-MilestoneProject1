@@ -5,7 +5,38 @@
 body {
     font-size: 10px;
     background-color: #a1a1a1;
+
     
+}
+
+/*---- Generic ----*/
+
+h1, h2, h3, h4, h5, h6 {
+    color: #16181a;
+    font-family: "Anton", sans-serif;
+    text-transform: uppercase;
+    padding-top: 1rem;
+}
+
+#logo {
+    height: 120px;
+    max-width: 120px;
+    border-radius: 50%;
+}
+.navigation-container {
+    overflow: hidden;
+}
+
+.navbar .nav-item a {
+    font-size: 1.5rem;
+    font-family: "Anton";
+}
+.navbar .nav-item a:hover {
+    color: #115611;
+}
+
+.navbar .navbar-toggler {
+    border: 0;
 }
 
 /*------------------------------------------------------Heading */
