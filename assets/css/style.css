@@ -9,3 +9,12 @@ body {
 .footer{
     background-color: #343a40;
 }
+.social-links li i {
+    font-size: 4.5rem;
+    color: #115611;
+    padding: 10px;
+}
+
+.social-links li i:hover {
+    color: #a1a1a1;
+}
