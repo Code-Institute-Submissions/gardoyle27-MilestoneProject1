@@ -38,12 +38,19 @@ h1, h2, h3, h4, h5, h6 {
 .navbar .navbar-toggler {
     border: 0;
 }
-
 /*------------------------------------------------------Heading */
 header{
     margin: 0;
     background-color: #343a40;
 }
+/*------------------------------------------------------Content */
+.shop-front{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 /*------------------------------------------------------Footer */
 .footer{
     background-color: #343a40;
