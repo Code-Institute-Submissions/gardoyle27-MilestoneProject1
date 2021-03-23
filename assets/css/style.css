@@ -45,10 +45,12 @@ header{
 }
 /*------------------------------------------------------Content */
 .shop-front{
+    padding-top: 30px;
+    padding-bottom: 40px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 70%;
 }
 
 /*------------------------------------------------------Footer */
