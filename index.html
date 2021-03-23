@@ -3,17 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Greenpark Pharmacy</title>
 </head>
 <body>
     <header>
+            <div class="container-fluid navigation-container">
+                <nav class="navbar navbar-dark bg-dark navbar-expand-sm">
+                    <!-- Site logo -->
+                    <a href="index.html" class="navbar-brand"><img src="assets/images/logo.png" alt="Green Pharmacy Cross" id="logo" /></a>
 
+                    <button class="navbar-toggler navbar-dark bg-dark ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <!-- Nav menu -->
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav navbar-dark bg-dark mr-auto">
+                            <li class="nav-item mr-2">
+                                <a class="nav-link active" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item mr-2">
+                                <a class="nav-link" href="about.html">About</a>
+                            </li>
+                            <li class="nav-item mr-2">
+                                <a class="nav-link" href="services.html">Services</a>
+                            </li>
+                            <li class="nav-item mr-2">
+                                <a class="nav-link" href="contact.html">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <!-- End Navigation  -->    
     </header>
     <section>
-
+        
     </section>
-    <footer>
-
+           <footer class="container-fluid">
+            <div class="row">   
+                <!-- Contact footer column -->
+                <div class="col-sm-6 col-md-6 text-center footer">
+                    <h5>Contact</h5>
+                    <p class="inline-block main-text">
+                        Greenpark Shopping Centre<br />
+                        Clondalkin<br />
+                        D22<br />
+                        <a href="tel:01-4642364">Ph: 01-4642364</a>
+                        <a href="greenparkpharmacy@gmail.com"></a>
+                    </p>
+                </div>
+                <!-- Social media footer column -->
+                <div class="col-sm-6 col-md-6 text-center footer">
+                    <h5>Social Media</h5>
+                    <ul class="list-inline social-links">
+                        <li class="list-inline-item">
+                            <a target="_blank" href="https://www.facebook.com/Green-Park-Pharmacy-344888668942728/?ref=page_internal">
+                                <i class="fab fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a target="_blank" href="https://www.youtube.com/">
+                                <i class="fab fa-youtube" aria-hidden="true"></i>
+                                <span class="sr-only">YouTube</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
     </footer>
 </body>
 </html>
