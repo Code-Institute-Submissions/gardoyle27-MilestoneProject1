@@ -1,20 +1,47 @@
+/*------------------------------------------------------google fonts import */
+@import url('https://fonts.googleapis.com/css?family=Oswald:100,200,300,400,500,600,700|Anton:100,200,300,400,500,600,700');
 
+/*------------------------------------------------------Colours */
 body {
     font-size: 10px;
-    background-color: #fefefe;
+    background-color: #a1a1a1;
     
 }
 
-
+/*------------------------------------------------------Heading */
+header{
+    margin: 0;
+    background-color: #343a40;
+}
+/*------------------------------------------------------Footer */
 .footer{
     background-color: #343a40;
 }
-.social-links li i {
-    font-size: 4.5rem;
+footer h5{
+    font-family: "Anton";
+    color: #16181a;
+}
+.contact{
+    font-family: "Oswald";
+    font-weight: 600;
+    font-size: 1rem;
+    color: #16181a;
+}
+
+.contact a {
+    color: #a1a1a1;
+    padding: 10px;
+}
+.contact a:hover {
     color: #115611;
+}
+
+.social-links li i {
+    font-size: 3.5rem;
+    color: #a1a1a1;
     padding: 10px;
 }
 
 .social-links li i:hover {
-    color: #a1a1a1;
+    color: #115611;
 }
