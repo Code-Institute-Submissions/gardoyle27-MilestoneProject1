@@ -38,9 +38,11 @@ The live website can be found [here](https://github.com/gardoyle27/MS1).
 All Pages will be systematically consistent in layout. They will contain a logo (which will also result in being a link to the home page) and a navigation menu at the top of the Webpage that will traverse the site easily.
 The purpose of this is to fulfil user story:
 > As a First Time user, I want to be able to easily navigate throughout the site to find content.
+
 The Home Page will contain a small bio about the Pharmacy.
 The purpose of this is to fulfil user story:
 > As a First Time user, I want to easily understand the main purpose of the site and learn more about my local pharmacy.
+
 Custom CSS and/or Bootstrap will be used to make the Website responsive by the use of media queries and/or the Bootstrap Grid system.
 All pages will be responsive and the layouts will change dependant on screen size. This is to ensure content flow is appealing and consistent,
 This will include images and the Nav Menu will be collapsible on a Mobile device to make use of space on smaller devices
