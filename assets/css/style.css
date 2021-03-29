@@ -107,3 +107,19 @@ footer h5{
 .social-links li i:hover {
     color: #115611;
 }
+
+.contact-form{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.contact-label {
+    color: #16181a;
+    font-family: "Oswald", sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+}
+.form-group{
+    padding-bottom: 20px;
+}
