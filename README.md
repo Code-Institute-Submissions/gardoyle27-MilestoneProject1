@@ -15,7 +15,7 @@ This Website was created for the sole purpose of completing the first Milestone 
 It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
 The live website can be found [here](https://github.com/gardoyle27/MS1).
 ## Green Park Pharmacy Responsive Website
-![Website Mock Up UPDATE THIS LINK when the mock up is done!!](UPDATE THIS LINK)
+![Website Mock Up] (assets/supportfiles/mockup.png)
 
 *** 
 ## User Experience Design
@@ -51,3 +51,4 @@ The purpose of this is to fulfil user story:
 
 Each page of the site will contain a footer. The footer will contain contact details and social media details. The social media details will link to the different social media accounts  and will open in a new tab. Rather than using text Font-Awesome icons will be used to make the visual representation that is used in modern website building
 
+## Home Page
