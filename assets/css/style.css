@@ -56,6 +56,9 @@ header{
     margin-right: auto;
     width: 70%;
 }
+#gallery{
+    width: 80%;
+}
 
 /*------------------------------------------------------Footer */
 .footer{
