@@ -51,4 +51,14 @@ The purpose of this is to fulfil user story:
 
 Each page of the site will contain a footer. The footer will contain contact details and social media details. The social media details will link to the different social media accounts  and will open in a new tab. Rather than using text Font-Awesome icons will be used to make the visual representation that is used in modern website building
 
-## Home Page
+## Layout
+
+the website will be broken into 4 seperate pages.
+    
+    * [Home]
+
+    * [Services]
+    * [Contact us]
+    * [Success]
+    
+
