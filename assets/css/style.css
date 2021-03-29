@@ -9,6 +9,12 @@ body {
 section {
     background-color: #a1a1a1;
 }
+a {
+    color: #115611;
+}
+a:hover {
+    color: #00c82a;
+}
 
 /*---- Generic ----*/
 
@@ -17,6 +23,9 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Anton", sans-serif;
     text-transform: uppercase;
     padding-top: 1rem;
+}
+ul {
+    list-style-type:none;
 }
 p, li{
     color: #16181a;
