@@ -4,9 +4,10 @@
 /*------------------------------------------------------Colours */
 body {
     font-size: 10px;
+    background-color: #343a40;  
+}
+section {
     background-color: #a1a1a1;
-
-    
 }
 
 /*---- Generic ----*/
