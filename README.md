@@ -128,21 +128,23 @@ Contact us Page
 
 ## Testing
 
-During the building of this website each component was checked in 3 main browsers. Edge, Firefox and google chrome. 
+### During the building of this website each component was checked in 3 main browsers. Edge, Firefox and google chrome. 
 
-links where tested to ensure that the navigation behaved as expected. unfortunatley the submit button is throwing a 405 error when trying to post. I did search the web for a resolution but any that I found were not able to resolve this.
+### links where tested to ensure that the navigation behaved as expected. unfortunatley the submit button is throwing a 405 error when trying to post. I did search the web for a resolution but any that I found were not able to resolve this.
 
-before uploading all code was tested in the requested html/css validators
+### before uploading all code was tested in the requested html/css validators
 
 ## Credits
 ### Regular Expression 
 In order to validate the email address the regex from [stackoverflow](https://stackoverflow.com/questions/5601647/html5-email-input-pattern-attribute) was used
 
 ### Submit input
-the following link was used as part of trying to fix the redirect issue I faced [Stackoverflow](https://stackoverflow.com/questions/44221250/redirecting-to-a-page-after-submitting-form-in-html)
+### The following link was used as part of trying to fix the redirect issue I faced [Stackoverflow](https://stackoverflow.com/questions/44221250/redirecting-to-a-page-after-submitting-form-in-html)
 
 ## Media
-with the exception of the logo which was created by me, all other photo's have been taken from the [Greenpark Pharmacy Facebook page](https://www.facebook.com/Green-Park-Pharmacy-344888668942728/?ref=page_internal) and permission was given by Fintan Moore of Greenpark Pharmacy
+### with the exception of the logo which was created by me, all other photo's have been taken from the [Greenpark Pharmacy Facebook page](https://www.facebook.com/Green-Park-Pharmacy-344888668942728/?ref=page_internal) and permission was given by Fintan Moore of Greenpark Pharmacy
+
+### All other associate media that has been created is contained in [assets/supportfiles](./assets/supportfiles)
 
 ## Special Thanks
 ### I'd like to give a special thanks to my mentor Gurjot Singh and to the very helpful student care team
